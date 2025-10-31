@@ -1,4 +1,4 @@
 # new-demo
 This is my first repo.
 <br>
-Author - Nikita
+Author - Nikita khamkar
